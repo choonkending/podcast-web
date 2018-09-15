@@ -1,0 +1,17 @@
+{
+  "name": "podcast-web",
+  "version": "0.0.1",
+  "description": "web client for podcast ",
+  "private": true,
+  "repository": "git@github.com:choonkending/podcast-web.git",
+  "author": "Ken Ding <aenkil@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0"
+  }
+}
