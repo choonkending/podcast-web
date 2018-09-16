@@ -7,7 +7,7 @@
   "author": "Ken Ding <aenkil@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --config build/webpack.client.config.js"
   },
   "dependencies": {
     "react": "^16.5.1",
